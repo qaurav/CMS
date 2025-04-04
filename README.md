@@ -26,7 +26,7 @@ This CMS is designed to manage locations, services, admins, and bookings efficie
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/qaurav/CMS
    ```
 
 2. **Navigate to the Project Directory**:
