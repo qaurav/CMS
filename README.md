@@ -53,7 +53,6 @@ This CMS is designed to manage locations, services, admins, and bookings efficie
 |--------|------------------|---------------------------|
 | POST   | `/locations`     | Create a new location     |
 | GET    | `/locations`     | Get all locations         |
-| GET    | `/locations/:id` | Get a location by ID      |
 | PUT    | `/locations/:id` | Update a location         |
 | DELETE | `/locations/:id` | Delete a location         |
 
@@ -63,7 +62,6 @@ This CMS is designed to manage locations, services, admins, and bookings efficie
 |--------|------------------|---------------------------|
 | POST   | `/services`      | Create a new service      |
 | GET    | `/services`      | Get all services          |
-| GET    | `/services/:id`  | Get a service by ID       |
 | PUT    | `/services/:id`  | Update a service          |
 | DELETE | `/services/:id`  | Delete a service          |
 
@@ -83,7 +81,6 @@ This CMS is designed to manage locations, services, admins, and bookings efficie
 |--------|------------------|---------------------------|
 | POST   | `/bookings`      | Create a new booking       |
 | GET    | `/bookings`      | Get all bookings           |
-| GET    | `/bookings/:id`  | Get a booking by ID        |
 | PUT    | `/bookings/:id`  | Update a booking           |
 | DELETE | `/bookings/:id`  | Delete a booking           |
 
